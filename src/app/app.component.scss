@@ -1,0 +1,9 @@
+#block_meeting {
+    &:hover {
+        filter: invert(92%) sepia(0%) saturate(3783%) hue-rotate(123deg) brightness(108%) contrast(109%);        stroke: aqua;
+    }
+
+    & * {
+        stroke: blue;
+    }
+}
