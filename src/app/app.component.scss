@@ -3,7 +3,32 @@
         filter: invert(92%) sepia(0%) saturate(3783%) hue-rotate(123deg) brightness(108%) contrast(109%);        stroke: aqua;
     }
 
-    & * {
-        stroke: blue;
+}
+
+#block_contact {
+    &:hover {
+        filter: invert(92%) sepia(0%) saturate(3783%) hue-rotate(123deg) brightness(108%) contrast(109%);        stroke: aqua;
     }
+
+}
+
+#block_employee {
+    &:hover {
+        filter: invert(92%) sepia(0%) saturate(3783%) hue-rotate(123deg) brightness(108%) contrast(109%);        stroke: aqua;
+    }
+
+}
+
+#block_customer {
+    &:hover {
+        filter: invert(92%) sepia(0%) saturate(3783%) hue-rotate(123deg) brightness(108%) contrast(109%);        stroke: aqua;
+    }
+
+}
+
+#block_project {
+    &:hover {
+        filter: invert(92%) sepia(0%) saturate(3783%) hue-rotate(123deg) brightness(108%) contrast(109%);        stroke: aqua;
+    }
+
 }
